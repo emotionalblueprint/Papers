@@ -36,4 +36,6 @@ TEG-Blue maps nervous system regulatory states along a gradient:
 
 ## License
 
-© 2026 Anna Paretas-Artacho — All rights reserved.
+© 2026 Anna Paretas-Artacho
+
+This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — share and adapt with attribution for non-commercial purposes.
