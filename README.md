@@ -2,6 +2,8 @@
 
 Research publications supporting the TEG-Blue (The Emotional Gradient) framework.
 
+> **New here?** See the [TEG-Blue Overview](https://github.com/emotionalblueprint/teg-blue-overview) for a complete project map.
+
 ## Papers
 
 ### Empirical Validation of the Four-Mode Gradient Framework
