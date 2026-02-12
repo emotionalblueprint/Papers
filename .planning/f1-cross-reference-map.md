@@ -76,17 +76,17 @@ All theory files created (commit 153caf2, 2026-02-12):
 3. **emotion-science.json** — Gross, Siegel, Fredrickson, Ekman
 4. **motivational-science.json** — Gray, Carver & Scheier, BIS/BAS
 
-### Glossary Terms Status
+### Glossary Terms ✅ COMPLETE
 
 | Term | .org Status | Notes |
 |------|-------------|-------|
-| four-mode-gradient | ✅ exists | ⚠️ Uses "Connect/Protect/Collapse/Restore" — differs from .com "Connection/Protection/Control/Domination" |
-| regulatory-state | ✅ exists | |
-| neuroception | ❌ missing | Core F1 concept |
-| state-dependent-capacity | ❌ missing | |
-| calibration | ❌ missing | |
-| pattern-hijack | ❌ missing | |
-| threat-lock | ❌ missing | |
+| four-mode-gradient | ✅ exists | Terminology fixed |
+| regulatory-state | ✅ exists | Terminology fixed |
+| neuroception | ✅ created | Core F1 concept |
+| state-dependent-capacity | ✅ created | |
+| calibration | ✅ created | |
+| pattern-hijack | ✅ created | |
+| threat-lock | ✅ created | |
 
 ### ✅ Terminology Inconsistency RESOLVED
 
