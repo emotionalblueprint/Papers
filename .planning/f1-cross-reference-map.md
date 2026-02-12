@@ -4,14 +4,14 @@ Framework 1: The Emotional Gradient — Scientific Foundations
 
 ## Status Overview
 
-| Source Theory | .org Status | Priority | Notes |
-|--------------|-------------|----------|-------|
-| Polyvagal Theory | ✅ exists | — | `/content/theories/polyvagal.json` |
-| Attachment Theory | ✅ exists | — | `/content/theories/attachment.json` |
-| Affective Neuroscience | ❌ missing | HIGH | Panksepp, Damasio, Barrett, LeDoux |
-| Trauma Research | ❌ missing | HIGH | van der Kolk, Levine, Ogden, Herman |
-| Emotion Science | ❌ missing | MEDIUM | Gross, Siegel, Fredrickson, Ekman |
-| Motivational Science | ❌ missing | LOW | Gray, Carver & Scheier |
+| Source Theory | .org Status | Notes |
+|--------------|-------------|-------|
+| Polyvagal Theory | ✅ exists | `/content/theories/polyvagal.json` |
+| Attachment Theory | ✅ exists | `/content/theories/attachment.json` |
+| Affective Neuroscience | ✅ created | `/content/theories/affective-neuroscience.json` |
+| Trauma Research | ✅ created | `/content/theories/trauma-research.json` |
+| Emotion Science | ✅ created | `/content/theories/emotion-science.json` |
+| Motivational Science | ✅ created | `/content/theories/motivational-science.json` |
 
 ## F1 Content That Should Link to .org
 
@@ -68,8 +68,9 @@ Terms that should link to .org glossary:
 
 ## Proposed .org Content to Create
 
-### Theory Files Needed (Priority Order)
+### Theory Files ✅ CREATED
 
+All theory files created (commit 153caf2, 2026-02-12):
 1. **trauma-research.json** — van der Kolk, Levine, Ogden, Herman
 2. **affective-neuroscience.json** — Panksepp, Damasio, Barrett, LeDoux
 3. **emotion-science.json** — Gross, Siegel, Fredrickson, Ekman
