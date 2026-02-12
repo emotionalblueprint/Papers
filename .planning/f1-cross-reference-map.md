@@ -127,13 +127,21 @@ In each theory JSON, add connection:
 }
 ```
 
-## Next Steps
+## Status: ✅ COMPLETE
 
-1. [ ] Create trauma-research.json on .org
-2. [ ] Create affective-neuroscience.json on .org
-3. [ ] Create neuroception.json glossary entry
-4. [ ] Update F1 PageContent.js with .org links
-5. [ ] Update existing polyvagal.json and attachment.json with F1 connection
+All cross-reference work for F1 is complete:
+
+1. [x] Create trauma-research.json on .org
+2. [x] Create affective-neuroscience.json on .org
+3. [x] Create emotion-science.json on .org
+4. [x] Create motivational-science.json on .org
+5. [x] Create neuroception.json glossary entry
+6. [x] Create state-dependent-capacity.json glossary entry
+7. [x] Create calibration.json glossary entry
+8. [x] Create pattern-hijack.json glossary entry
+9. [x] Create threat-lock.json glossary entry
+10. [x] Update F1 PageContent.js with .org links (commit 25e7854)
+11. [x] Fix terminology inconsistency (commit d4af6c3)
 
 ---
 
