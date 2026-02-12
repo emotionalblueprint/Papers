@@ -87,12 +87,12 @@ Terms that should link to .org glossary:
 | pattern-hijack | ❌ missing | |
 | threat-lock | ❌ missing | |
 
-### ⚠️ Terminology Inconsistency Found
+### ✅ Terminology Inconsistency RESOLVED
 
 **.com uses:** Connection → Protection → Control → Domination
-**.org uses:** Connect → Protect → Collapse → Restore
+**.org now uses:** Connection → Protection → Control → Domination
 
-This needs resolution before cross-linking.
+Fixed in commit d4af6c3 (2026-02-12)
 
 ## Cross-Linking Strategy
 
